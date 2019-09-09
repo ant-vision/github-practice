@@ -10,6 +10,6 @@ package com.yinhai;
  **/
 public class MiaoWu {
     public static void main(String[] args) {
-        System.out.println("喵喵喵~~~~");
+        System.out.println("喵喵喵~~~~,hahha");
     }
 }
